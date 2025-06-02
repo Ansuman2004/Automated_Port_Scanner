@@ -43,6 +43,7 @@ techniques.
 ![Screenshot 2025-06-03 031345](https://github.com/user-attachments/assets/e0873cb8-43e3-49d7-ac15-609e21b9771b)
 
 ***Conclusion*** 
+
 The Python-based port scanner developed in this project demonstrates the core 
 concepts of network reconnaissance in offensive cybersecurity. By scanning and 
 identifying open ports and service banners on a target system, the tool aids in 
