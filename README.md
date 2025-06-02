@@ -1,7 +1,7 @@
 # Automated_Port_Scanner
 This project involves developing a simple automated port scanner using Python to perform active network reconnaissance. The tool scans a target IP address or domain to identify open ports and their associated services. This mimics the first phase of penetration testing — information gathering — which is essential in any offensive cybersecurity engagement.
 
-***Abstract*** 
+### Abstract
 This project involves developing a simple automated port scanner using Python 
 to perform active network reconnaissance. The tool scans a target IP address or 
 domain to identify open ports and their associated services. This mimics the first 
@@ -29,8 +29,8 @@ techniques.
 4. Understand ethical usage in penetration testing
 
 ***Tools Used*** 
- Python 3 
- Libraries: socket, argparse, concurrent.futures 
+> Python 3 
+> Libraries: socket, argparse, concurrent.futures 
 
 ***Methodology***
 1. Target IP is resolved. 
@@ -39,7 +39,8 @@ techniques.
 4. Results displayed in console.
 
 ***Sample Run***
-***>>>>*** python port_scanner.py scanme.nmap.org --start 1 --end 100
+
+![Screenshot 2025-06-03 031456](https://github.com/user-attachments/assets/04fb4d31-982a-46cc-abb8-1017f02ca49d)
 
 ***Conclusion*** 
 The Python-based port scanner developed in this project demonstrates the core 
