@@ -40,7 +40,7 @@ techniques.
 
 ***Sample Run***
 
-![Screenshot 2025-06-03 031456](https://github.com/user-attachments/assets/04fb4d31-982a-46cc-abb8-1017f02ca49d)
+![Screenshot 2025-06-03 031345](https://github.com/user-attachments/assets/e0873cb8-43e3-49d7-ac15-609e21b9771b)
 
 ***Conclusion*** 
 The Python-based port scanner developed in this project demonstrates the core 
